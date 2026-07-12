@@ -147,20 +147,20 @@
   },
   "tips": [
     {
-      "title": "Dagrapport vorige werkdag",
-      "text": "Vul iedere ochtend de cijfers van de vorige werkdag in. Zo blijft het scherm betrouwbaar zonder live koppelingen."
+   "title": "VBS-scripting weer beschikbaar in SAP",
+      "text": "Goed nieuws! SAP ondersteunt weer VBS-scripting. Wil je zelf gebruikmaken van scripts? Plan dan een moment in met Rachel of Mert. Zij helpen je graag op weg."
     },
     {
       "title": "Mailbox",
-      "text": "Stuur dagelijks op ontvangen, afgehandeld, openstaand, urgent en oudste open mail."
+      "text": "Esther maakt dagelijks een verdeling in de mailbox om onze dienstverlening te waarborgen. Daarbij geeft zij aan wie welke meldingen en werkzaamheden oppakt."
     },
     {
-      "title": "Werkvoorraad",
-      "text": "Neem warmtepompen, klachten, kwesties en terugbelverzoeken mee als vaste werkvoorraad."
+      "title": "Nieuwe urgentiecategorie beschikbaar",
+      "text": "Voor meldingen die direct aandacht vragen, is de categorie !URGENT! beschikbaar."
     },
     {
-      "title": "Daily focus",
-      "text": "Gebruik de drie highlights voor bijzonderheden die iedereen tijdens de daily moet weten."
+      "title": "Schiphol-tip: vind transport-equipment in SAP",
+      "text": "Maak gebruik van de standaard Schiphol-layout in SAP om eenvoudig alle transport-equipments terug te vinden."
     }
   ],
   "agenda": [
