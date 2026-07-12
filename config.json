@@ -80,49 +80,49 @@
   "kpis": [
     {
       "label": "Ontvangen mails",
-      "value": "345",
+      "value": "340",
       "sub": "",
       "status": "neutral",
       "icon": "📧"
     },
     {
       "label": "Urgente mails",
-      "value": "4",
+      "value": "134",
       "sub": "",
       "status": "danger",
       "icon": "🚨"
     },
     {
       "label": "Kwesties",
-      "value": "6",
+      "value": "23",
       "sub": "",
       "status": "neutral",
       "icon": "📋"
     },
     {
       "label": "Warmtepompen",
-      "value": "63",
+      "value": "32",
       "sub": "",
       "status": "good",
       "icon": "🌡️"
     },
     {
       "label": "Klachten",
-      "value": "11",
+      "value": "14",
       "sub": "",
       "status": "warning",
       "icon": "⚠️"
     },
     {
       "label": "Inkomende oproepen",
-      "value": "87",
+      "value": "34",
       "sub": "",
       "status": "good",
       "icon": "📞"
     },
     {
       "label": "Uitgaande oproepen",
-      "value": "36",
+      "value": "19",
       "sub": "",
       "status": "neutral",
       "icon": "☎️"
@@ -137,7 +137,7 @@
     {
       "icon": "🏖️",
       "label": "Afwezig",
-      "value": "2"
+      "value": "0"
     }
   ],
   "team": {
