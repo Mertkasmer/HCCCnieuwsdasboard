@@ -162,6 +162,10 @@
       "title": "Schiphol-tip: vind transport-equipment in SAP",
       "text": "Maak gebruik van de standaard Schiphol-layout in SAP om eenvoudig alle transport-equipments terug te vinden."
     }
+    {
+      "title": "SLA instellen zonder Acties in SAP",
+      "text": "Je hoeft de SLA niet meer handmatig via Acties in SAP in te vullen. Pas hiervoor de datum en tijd bij 'Tijdstip gewenste start' onder Prioriteit aan. Let op: wijzig niet het veld 'Begin storing'."
+    }
   ],
   "agenda": [
     {
