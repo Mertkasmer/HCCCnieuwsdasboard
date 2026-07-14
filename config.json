@@ -182,6 +182,12 @@
     },
     {
       "date": "14 JUL",
+      "title": "Rowena warmtepomp & kwesties",
+      "time": "12:00 - 15:00",
+      "location": "HCCC Kantoor" 
+    },
+    {
+      "date": "14 JUL",
       "title": "Esther training maken",
       "time": "13:30 - 14:30",
       "location": "HCCC Kantoor"
@@ -191,7 +197,7 @@
       "title": "Margreet Kwesties",
       "time": "15:00 - 16:00",
       "location": "HCCC Kantoor"
-    }
+    }  
   ],
   "feedback": {
     "question": "Jouw mening telt!",
