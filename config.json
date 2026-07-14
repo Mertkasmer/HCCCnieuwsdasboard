@@ -132,12 +132,12 @@
     {
       "icon": "👥",
       "label": "Aanwezig",
-      "value": "6"
+      "value": "5"
     },
     {
       "icon": "🏖️",
       "label": "Afwezig",
-      "value": "0"
+      "value": "1"
     }
   ],
   "team": {
