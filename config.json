@@ -105,6 +105,12 @@
     },
     {
       "datum": "15 JUL",
+      "titel": "Binbin Klachten",
+      "tijd": "13:30 - 14:30",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "15 JUL",
       "titel": "Mert mail firewall update",
       "tijd": "14:00 - 14:15",
       "locatie": "HCCC kantoor"
