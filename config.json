@@ -81,14 +81,32 @@
   "agenda": [
     {
       "datum": "15 JUL",
-      "titel": "Gitte Helpt mee",
-      "tijd": "08:00 - 12:00",
+      "titel": "Mert & Rachel bijkletsen",
+      "tijd": "09:00 - 09:15",
       "locatie": "HCCC kantoor"
     },
     {
       "datum": "15 JUL",
       "titel": "Margreet kwesties",
       "tijd": "09:00 - 10:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "15 JUL",
+      "titel": "Rachel & Reamon overleg WP",
+      "tijd": "11:00 - 12:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "15 JUL",
+      "titel": "Rachel & Rowena",
+      "tijd": "13:00 - 13:25",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "15 JUL",
+      "titel": "Mert mail firewall update",
+      "tijd": "14:00 - 14:15",
       "locatie": "HCCC kantoor"
     },
     {
