@@ -1,12 +1,12 @@
 {
-  "datum": "Maandag 14 juli",
-  "iber": "Gerwin Valkenborg & Jan Peters",
-  "ontvangenMails": "340",
-  "urgenteMails": "134",
-  "kwesties": "23",
-  "warmtepompen": "32",
-  "klachten": "14",
-  "inkomendeOproepen": "34",
+  "datum": "Dinsdag 14 juli",
+  "iber": "Hilda Rosenberg",
+  "ontvangenMails": "270",
+  "urgenteMails": "104",
+  "kwesties": "17",
+  "warmtepompen": "19",
+  "klachten": "16",
+  "inkomendeOproepen": "56",
   "uitgaandeOproepen": "19",
   "aanwezig": "5",
   "afwezig": "1",
@@ -80,40 +80,22 @@
   ],
   "agenda": [
     {
-      "datum": "14 JUL",
-      "titel": "Mert Dasboard + Softpanel finetunen",
-      "tijd": "08:00 - 12:30",
+      "datum": "15 JUL",
+      "titel": "Gitte Helpt mee",
+      "tijd": "08:00 - 12:00",
       "locatie": "HCCC kantoor"
     },
     {
-      "datum": "14 JUL",
-      "titel": "Mert werkinstructie",
+      "datum": "15 JUL",
+      "titel": "Margreet kwesties",
       "tijd": "09:00 - 10:00",
       "locatie": "HCCC kantoor"
     },
     {
-      "datum": "14 JUL",
-      "titel": "Binbin klachten",
-      "tijd": "10:00 - 12:00",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "14 JUL",
-      "titel": "Rowena warmtepomp & kwesties",
-      "tijd": "12:00 - 15:00",
-      "locatie": "HCCC Kantoor"
-    },
-    {
-      "datum": "14 JUL",
-      "titel": "Esther training maken",
-      "tijd": "13:30 - 14:30",
-      "locatie": "HCCC Kantoor"
-    },
-    {
-      "datum": "14 JUL",
-      "titel": "Margreet Kwesties",
+      "datum": "15 JUL",
+      "titel": "Margreet kwesties",
       "tijd": "15:00 - 16:00",
-      "locatie": "HCCC Kantoor"
+      "locatie": "HCCC kantoor"
     }
   ],
   "ticker": [
