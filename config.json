@@ -8,7 +8,7 @@
   "klachten": "6",
   "inkomendeOproepen": "41",
   "uitgaandeOproepen": "17",
-  "aanwezig": "4",
+  "aanwezig": "3",
   "afwezig": "2",
   "dezeWeek": [
     {
@@ -80,45 +80,9 @@
   ],
   "agenda": [
     {
-      "datum": "15 JUL",
-      "titel": "Mert & Rachel bijkletsen",
-      "tijd": "09:00 - 09:15",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Margreet kwesties",
-      "tijd": "09:00 - 10:00",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Rachel & Reamon overleg WP",
-      "tijd": "11:00 - 12:00",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Rachel & Rowena",
-      "tijd": "13:00 - 13:25",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Binbin Klachten",
-      "tijd": "13:30 - 14:30",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Mert mail firewall update",
-      "tijd": "14:00 - 14:15",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "15 JUL",
-      "titel": "Margreet kwesties",
-      "tijd": "15:00 - 16:00",
+      "datum": "16 JUL",
+      "titel": "Mert & Rowena warmtepompen",
+      "tijd": "10:00 - 11:00",
       "locatie": "HCCC kantoor"
     }
   ],
