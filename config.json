@@ -1,13 +1,13 @@
 {
   "datum": "Woensdag 15 juli",
-  "iber": "Hilda Rosenberg",
-  "ontvangenMails": "240",
-  "urgenteMails": "166",
-  "kwesties": "12",
-  "warmtepompen": "3",
-  "klachten": "6",
-  "inkomendeOproepen": "41",
-  "uitgaandeOproepen": "17",
+  "iber": "Rens Kaal",
+  "ontvangenMails": "210",
+  "urgenteMails": "123",
+  "kwesties": "14",
+  "warmtepompen": "6",
+  "klachten": "8",
+  "inkomendeOproepen": "39",
+  "uitgaandeOproepen": "8",
   "aanwezig": "3",
   "afwezig": "2",
   "dezeWeek": [
@@ -81,8 +81,56 @@
   "agenda": [
     {
       "datum": "16 JUL",
-      "titel": "Mert & Rowena warmtepompen",
-      "tijd": "10:00 - 11:00",
+      "titel": "Binbin Klachten",
+      "tijd": "08:00 - 09:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Binbin Klachten",
+      "tijd": "09:00 - 10:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Rowena Kwesties",
+      "tijd": "10:00 - 10:30",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Mert, Rens & Rachel ICT overleg",
+      "tijd": "10:00 - 11:30",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Mert & Rowena Warmtepomp",
+      "tijd": "11:30 - 13:00",
+      "locatie": "HCCC kantoor"
+    },
+        {
+      "datum": "16 JUL",
+      "titel": "Mert & Rowena Warmtepomp",
+      "tijd": "11:30 - 13:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Binbin klachten",
+      "tijd": "13:00 - 15:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Margreet kwesties",
+      "tijd": "15:00 - 16:00",
+      "locatie": "HCCC kantoor"
+    },
+    {
+      "datum": "16 JUL",
+      "titel": "Mert Controle mailbox",
+      "tijd": "16:30 - 17:00",
       "locatie": "HCCC kantoor"
     }
   ],
