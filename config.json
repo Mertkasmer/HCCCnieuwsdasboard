@@ -1,13 +1,13 @@
 {
-  "datum": "Donderdag 15 juli",
-  "iber": "Sander van Roon",
-  "ontvangenMails": "210",
-  "urgenteMails": "123",
-  "kwesties": "14",
-  "warmtepompen": "6",
-  "klachten": "8",
-  "inkomendeOproepen": "39",
-  "uitgaandeOproepen": "8",
+  "datum": "Vrijdag 17 juli",
+  "iber": "Kurt Lemmers",
+  "ontvangenMails": "164",
+  "urgenteMails": "87",
+  "kwesties": "13",
+  "warmtepompen": "7",
+  "klachten": "6",
+  "inkomendeOproepen": "29",
+  "uitgaandeOproepen": "17",
   "aanwezig": "5",
   "afwezig": "1",
   "dezeWeek": [
@@ -80,45 +80,15 @@
   ],
   "agenda": [
     {
-      "datum": "16 JUL",
-      "titel": "Binbin Klachten",
-      "tijd": "08:00 - 09:00",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "16 JUL",
-      "titel": "Binbin Klachten",
+      "datum": "20 JUL",
+      "titel": "Margreet kwesties",
       "tijd": "09:00 - 10:00",
       "locatie": "HCCC kantoor"
     },
     {
-      "datum": "16 JUL",
-      "titel": "Rowena Kwesties",
-      "tijd": "10:00 - 10:30",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "16 JUL",
-      "titel": "Mert, Rens & Rachel ICT overleg",
-      "tijd": "10:00 - 11:30",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "16 JUL",
-      "titel": "Mert & Rowena Warmtepomp",
-      "tijd": "11:30 - 13:00",
-      "locatie": "HCCC kantoor"
-    },
-        {
-      "datum": "16 JUL",
-      "titel": "Mert & Rowena Warmtepomp",
-      "tijd": "11:30 - 13:00",
-      "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "16 JUL",
-      "titel": "Binbin klachten",
-      "tijd": "13:00 - 15:00",
+      "datum": "20 JUL",
+      "titel": "Rowena Rabobank",
+      "tijd": "10:00 - 12:00",
       "locatie": "HCCC kantoor"
     },
     {
@@ -126,19 +96,12 @@
       "titel": "Margreet kwesties",
       "tijd": "15:00 - 16:00",
       "locatie": "HCCC kantoor"
-    },
-    {
-      "datum": "16 JUL",
-      "titel": "Mert Controle mailbox",
-      "tijd": "16:30 - 17:00",
-      "locatie": "HCCC kantoor"
     }
   ],
   "ticker": [
     "Van Gogh Museum: alleen bellen bij Prio 1A / 2B",
     "ICT RFH: zonder duidelijk 92- of 300-nummer retour naar ICT",
     "Tjibbe van der Veen met vakantie tot 24-7 (Algemeen nummer Drachten bereikbaar)",
-    "Barbara Stuivenberg met vakantie tot 17-7 (Nick Bos bereikbaar)",
     "Marleen Romijn met vakantie tot 22-7 (Linda Selhorst bereikbaar)",
     "Hogeschool van Amsterdam: Tussen 15:00 - 18:00 storingsdienst benaderen",
     "Controleer categorie !URGENT! dagelijks op echte spoed"
